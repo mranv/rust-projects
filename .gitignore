@@ -22,3 +22,5 @@
 # Ignore build directories for Cargo
 **/build/
 
+**/.DS_Store
+**.DS_Store
